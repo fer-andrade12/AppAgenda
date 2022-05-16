@@ -1,5 +1,5 @@
 # javaee
 Java Web - Agenda de contatos
 
-<img src="..img/agenda.jpg">
+<img src=".img/agenda.jpg">
 
